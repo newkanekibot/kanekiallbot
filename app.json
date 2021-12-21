@@ -6,9 +6,9 @@
          "anime",
          "group",
          "manager",
-         "aries"
+         "kaneki"
       ],
-   "repository": "https://github.com/newkanekibot/Kanekibot",
+   "repository": "https://github.com/newkanekibot/kanekiallbot",
     
    "env": {
       "TOKEN": {
@@ -31,7 +31,7 @@
          "value": "8080"
       },
       "REDIS_URI": {
-         "description": "Get from redislabs.com",
+         "description": "Get from redislabs.com see sample at @TebBotSupport",
          "value": "redis://kanekibot:Noval1174@8@redis-11363.c256.us-east-1-2.ec2.cloud.redislabs.com:11363/",
          "required": true
       },
@@ -57,7 +57,7 @@
       },
       "OPERATORS": {
          "description": "Space seperated list of sudoes",
-         "value": "",
+         "value": "1999537338",
          "required": true
       },
       "BOT_ID": {
@@ -77,11 +77,11 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123"
+         "value": "-1001582261112"
       },
       "SUDO_USERS": {
          "description": "For gbans",
-         "value": "",
+         "value": "1999537338",
          "required": true
       },
       "MONGO_PORT": {
@@ -97,7 +97,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123"
+         "value": "-1001744816468"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -135,7 +135,7 @@
       },
       "STRING_SESSION": {
          "description": "run repl run And get your String Session",
-         "value": "",
+         "value": "1AZWarzUBu73zaKlgF5NRc8XcNYME2P_GyXcCeTDljNg2VosXziI3Rvn0LbuI-YTE8F1DCb9NJLA0GSRN2alyswNzc67C1LBxrnt85f_3M9zm_hb4dE8F_hrM__O4vSXIBvUKWm1lN6yhMQndN9qBdziLvWnoFSxV4UQUpH_bjk8Io4pVu_ujJvDse0pljFGp8VFkLemuoULU3ALWghfphnS6eNQqB0948OATaGo8KKVx2QqqsvFGFd-7FiyRI410Uv--X42fYF8XCUIq-NXUDVuDBLx6IbfSYNG1obgSz-AskKReOnIqutKXHaZjinHbvQ2Qcmg9Hb54cC5kGa3AZSCHJ9SoEsw=",
          "required": true
       },
       "TIGERS": {
