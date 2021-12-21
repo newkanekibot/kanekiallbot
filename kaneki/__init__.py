@@ -123,9 +123,9 @@ if ENV:
     )
     SPAMWATCH_API = os.environ.get(
         "SPAMWATCH_API",
-        "g~_w3BTzVQOCkm~hO0Dvi5aQCg6v92ZD_1dyZUnVFKneKg7VMw37sVfdqltxtCuq",
+        "7OJwpVq0TUnXzrO_e~Zh9g4udF~gKsL7zqsTGIwhAUD98LooIO9tdExCRcs5kd2m",
     )
-    BOT_ID = int(os.environ.get("BOT_ID", "1914584978"))
+    BOT_ID = int(os.environ.get("BOT_ID", "2146218062"))
     ARQ_API_URL = "https://thearq.tech"
     ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "UOXSNM-EDTSYU-YIYJOI-BMCROR-ARQ")
     SAINT = 1999537338
@@ -232,10 +232,9 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1669508271)
+DEV_USERS.add(1989261398)
 DEV_USERS.add(1817146787)
-DEV_USERS.add(2131857711)
-DEV_USERS.add(1192108540)
+DEV_USERS.add(1999537338)
 DEV_USERS.add(1138045685)
 DEV_USERS.add(870471128)
 DEV_USERS.add(645739169)
