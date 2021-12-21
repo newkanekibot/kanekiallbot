@@ -1,6 +1,6 @@
 <center>
   <h1> 
-    Kaneki Ken <a href="https://www.codefactor.io/repository/github/newkanekibot/KanekiAllbot"><img src="https://www.codefactor.io/repository/github/newkanekibot/KanekiAllbot/badge?s=745e055fa302e5a4447c78cc7209bfcac5798841" alt="CodeFactor" /></a>
+    Kaneki Ken <a href="https://www.codefactor.io/repository/github/newkanekibot/kanekiallbot"><img src="https://www.codefactor.io/repository/github/newkanekibot/kanekiallbot/badge?s=745e055fa302e5a4447c78cc7209bfcac5798841" alt="CodeFactor" /></a>
   </h1>
 </center>
 
@@ -13,7 +13,7 @@ Saint Aries is a Characther powerful in saints saiya anime and modular telegram 
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiAllbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/kanekiallbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ## NOTE:
 
