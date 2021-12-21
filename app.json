@@ -35,16 +35,6 @@
          "value": "redis://kanekibot:Noval1174@8@redis-11363.c256.us-east-1-2.ec2.cloud.redislabs.com:11363/",
          "required": true
       },
-      "REDIS_PORT": {
-         "description": "Get from redislabs.com",
-         "value": "3000",
-         "required": true
-      },
-      "REDIS_PASS": {
-         "description": "Get from redislabs.com",
-         "value": "ArMlD4pr1661sAJzMIIZMuivHDg2bH20",
-         "required": true
-      },
       "MONGO_DB_URI": {
          "description": "Required for database connections",
          "value": "mongodb+srv://skynetbot:novalgarut21@cluster0.eugvx.mongodb.net/cluster0?retryWrites=true&w=majority",
